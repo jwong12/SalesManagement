@@ -1,5 +1,5 @@
 # ClientsManagement GUI
-This Windows form application is my personal project to manage clients information and store their data in a remote SQL Database. This application uses data binding techniques to perform CRUD operations in the client dialog and it automatically refreshes the clients Collection on the DataGridView when there's an update. I've also applied high degree of separation of concerns by separating the View Model from the Business and Data layer.
+This Windows form application is my personal project to manage clients information and store their data in a remote SQL Database. This application uses data binding techniques to perform CRUD operations in the client dialog and it automatically refreshes the clients Collection on the DataGridView when there's an update. I've used high degree of separation of concerns by separating the View Model from the Business and Data layer.
 
 ## Getting Started
 
